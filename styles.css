@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lasagna {
+    color: white;
+    background-color: red;
+}
+
+.burger {
+    color: white;
+    background-color: green;
+}
+
+.pancakes {
+    color: white;
+    background-color: blue;
+}
+
+a {
+    font-size: 30px;
+    margin: 20px;
+}
+
+h1 {
+    font-weight: 800;
+}
